@@ -1,6 +1,6 @@
 # MUST WIN FOREVER License 1.0
 
-Required Notice: Copyright 2026 MUST WIN FOREVER (https://brsi4653-wq.github.io/MWF)
+Required Notice: Copyright 2026 MUST WIN FOREVER (https://brsi4653-wq.github.io/MWF). All rights reserved, except the rights this license grants.
 
 This license has three parts:
 
@@ -14,11 +14,10 @@ If Part 2 and Part 3 disagree, Part 2 applies.
 
 ## Part 1: Plain-English summary
 
-- **Just for you?** Do whatever you like with it. No credit needed.
-- **Sharing it with anyone else?** Credit MUST WIN FOREVER clearly, everywhere: where you offer it, in its description, inside the software itself and in its docs.
-- **Porting it to another browser under our name?** Ask us first. Send us what you made, and once we've reviewed it and said yes in writing, you can keep the software's name (like Overflow), the MUST WIN FOREVER name, the logo and the images. Label it unofficial, for example "Overflow: Unofficial Chrome Edition". Your updates to it are covered as long as it stays a direct port. We can take back permission at any time.
-- **Making your own thing with a different name?** No need to ask. Give it its own name, don't use our name or logo to brand or market it, and say it contains code from MUST WIN FOREVER's software, for example "Contains code from Overflow by MUST WIN FOREVER". You can add features we won't, even ad blocking.
-- **Never for money.** No selling, no paywalls, no "pay to unlock", and no ads added, in any form. Optional donations are fine, as long as nothing is locked behind them.
+- **Using it?** Install and use our software as we release it. That's free and you don't need to ask.
+- **Everything else is ours.** You can't copy, share, change, port or sell our software, or use its code in your own project, unless we say yes in writing.
+- **Want to use our code?** Email mustwinforevercontact@gmail.com and tell us what you're making. We might say yes, say yes with conditions, or say no.
+- **Our name and logos are ours.** Don't use them to brand or promote anything.
 
 ---
 
@@ -30,63 +29,33 @@ These terms are part of this license. Accepting the license means accepting thes
 
 **MUST WIN FOREVER** is the licensor.
 
-**Distribute** means to give, share, publish, upload or otherwise make the software, or any part of it, available to anyone other than yourself, whether as source code, a packaged extension or in any other form.
+**The software** means any software MUST WIN FOREVER releases under this license, including its source code, packaged versions, documentation, images and other files.
 
-**Direct Port** means a version of the software changed only as far as needed to make it install and run on a different browser or platform, plus fixes needed for that purpose. A Direct Port does not add, remove or change the software's features, options, behavior or appearance, except where that is unavoidable on the new browser or platform.
+**Distribute** means to give, share, publish, upload or otherwise make the software, or any part of it, available to anyone other than yourself, in any form.
 
-**Derivative Project** means any work that includes, or is based on, any part of the software and is not a Direct Port.
+**MWF Brand Assets** means the name "MUST WIN FOREVER", the names of its software (for example "Overflow"), and the logos, icons, artwork and images of MUST WIN FOREVER and its software.
 
-**Software Name** means the name MUST WIN FOREVER releases the software under, for example "Overflow".
+### B. Using the software
 
-**MWF Brand Assets** means the name "MUST WIN FOREVER", the Software Name, and the logos, icons, artwork and images of MUST WIN FOREVER and of the software.
+You may install and use the software as MUST WIN FOREVER releases it, from MUST WIN FOREVER or from a place MUST WIN FOREVER has released it to, for any purpose. Using it that way is a permitted purpose under the Base Terms, whether or not that purpose is noncommercial. You may make the copies that installing and using it needs. Reading and studying the source code is also allowed.
 
-### B. Personal use
+### C. All rights reserved
 
-If you do not Distribute the software, you do not need to keep any credit, branding or notice about MUST WIN FOREVER in your own copy.
+MUST WIN FOREVER reserves all rights in the software that this license does not expressly grant. Unless MUST WIN FOREVER has given you permission in writing, you may not:
 
-### C. Credit when you Distribute
+1. Distribute the software, or any part of it;
+2. change the software, port it to another browser or platform, translate it, or make new works based on it;
+3. copy any part of the software's source code into any other work;
+4. sell the software, charge for it or for access to it, or earn money from it in any other way; or
+5. remove or change any copyright notice, license or credit in the software.
 
-If you Distribute the software, a Direct Port or a Derivative Project, you must give MUST WIN FOREVER clear and prominent credit in every place where you offer or describe it, including at least:
+### D. Asking for permission
 
-1. the store listing, website or page where it is offered;
-2. its description;
-3. inside the software itself, in a place users can find, such as a settings or "about" screen; and
-4. its documentation, including any README file.
+To ask for permission to do something this license does not allow, email mustwinforevercontact@gmail.com and describe what you want to do. MUST WIN FOREVER may say yes, say yes with conditions, or say no. Permission only counts if it is given in writing. It covers only what it says, and lasts only as long as it says. If you do not follow its conditions, the permission ends.
 
-The credit must say that the work is, or is based on, "[Software Name] by MUST WIN FOREVER" (for example, "Overflow by MUST WIN FOREVER"), and link to <https://brsi4653-wq.github.io/MWF> where links are possible. Credit must not be hidden, shrunk, buried or worded to make it easy to miss. You must also keep this license and the Required Notice line above with the software.
+### E. Name and logos
 
-### D. Direct Ports
-
-You may only Distribute a Direct Port that uses any MWF Brand Assets after MUST WIN FOREVER has reviewed it and given you permission in writing. To ask, send the port, or a link to it, to mustwinforevercontact@gmail.com. MUST WIN FOREVER may say no. Permission covers the port that was reviewed and later updates to it, as long as it remains a Direct Port and follows these terms. MUST WIN FOREVER may take back permission at any time by telling you in writing. After that, you must stop Distributing the port with any MWF Brand Assets.
-
-Once you have permission, you may use the MWF Brand Assets, including the Software Name, its logos, icons and screenshots, as long as:
-
-1. it is clearly labelled as unofficial and names the browser or platform, for example "Overflow: Unofficial Chrome Edition";
-2. nothing about it suggests it is made by MUST WIN FOREVER; and
-3. you use the MWF Brand Assets only to identify the port, not for any other product or purpose.
-
-If you rename a Direct Port and use none of the MWF Brand Assets, it is treated as a Derivative Project instead: no permission is needed, and Section E applies.
-
-### E. Derivative Projects
-
-You do not need permission to Distribute a Derivative Project. If you do:
-
-1. it must have its own name, and that name must not be the Software Name or anything confusingly similar;
-2. you may not use any MWF Brand Assets in its name, branding, logo, icons or marketing, or in any way that suggests it is made, approved or supported by MUST WIN FOREVER;
-3. you must still give credit under Section C, worded as "Contains code from [Software Name] by MUST WIN FOREVER", for example "Contains code from Overflow by MUST WIN FOREVER". This factual credit is required and is not a use of the MWF Brand Assets for branding; and
-4. you may add features the software does not have, including features MUST WIN FOREVER chooses not to include, such as ad blocking.
-
-### F. No money
-
-Nobody may sell the software, a Direct Port or a Derivative Project, or charge for it or for access to it, in any form. This includes paywalls, subscriptions, required payments, "pay to unlock" features, and bundling it into anything that is sold. Asking for or accepting voluntary donations is allowed, as long as nothing in the software, a Direct Port or a Derivative Project is locked behind, limited by or depends on a donation.
-
-### G. No ads
-
-You may not add advertising to the software, a Direct Port or a Derivative Project, or Distribute any of them in a way that earns money from advertising shown in it. Blocking or hiding ads is not advertising and is allowed in a Derivative Project under Section E.
-
-### H. Other permission
-
-If you want to do something these terms don't allow, ask at mustwinforevercontact@gmail.com. Permission only counts if it is given in writing.
+This license gives you no right to use any MWF Brand Assets, except to refer accurately to the software by name. You may not use them in the name, branding, logo or marketing of anything else, or in any way that suggests it is made, approved or supported by MUST WIN FOREVER, unless MUST WIN FOREVER has given you permission in writing.
 
 ---
 
@@ -98,21 +67,7 @@ In order to get any license under these terms, you must agree to them as both st
 
 ### Copyright License
 
-The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
-
-### Distribution License
-
-The licensor grants you an additional copyright license to distribute copies of the software.  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).
-
-### Notices
-
-You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
-
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
-
-### Changes and New Works License
-
-The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose, other than distributing the software or making changes or new works based on the software.
 
 ### Patent License
 
@@ -136,7 +91,7 @@ You may have "fair use" rights for the software under the law. These terms do no
 
 ### No Other Rights
 
-These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else. These terms do not imply any other licenses.
 
 ### Patent Defense
 
@@ -144,7 +99,7 @@ If you make any written claim that the software infringes or contributes to infr
 
 ### Violations
 
-The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice. Otherwise, all your licenses end immediately.
 
 ### No Liability
 
@@ -156,7 +111,7 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 
 **You** refers to the individual or entity agreeing to these terms.
 
-**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization. **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control can be direct or indirect.
 
 **Your licenses** are all the licenses granted to you for the software under these terms.
 
